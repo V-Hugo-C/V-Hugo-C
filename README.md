@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, i am Victor Cunha
+I live in Brasília - DF, I had contact with programming in my graduation in Electronic Engineering and since then I have been seeking to develop my knowledge in the area.
 
-<!--
-**V-Hugo-C/V-Hugo-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+<P>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt ="c++" width="40" height="40"/>
+</P>
 
-Here are some ideas to get you started:
+# Language Proficiency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My native language is portuguese 🇧🇷
+* Technical English
+
+# Contato
+<a href="https://www.linkedin.com/in/victor-cunha-a4b67b1bb/" target="blank">
+  <img align="center" src="https://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" alt="VictorWise3" height="30" width="30" />
+<a href="https://twitter.com/Victorwise3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="VictorWise3" height="30" width="30" />
+
+
