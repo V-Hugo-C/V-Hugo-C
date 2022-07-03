@@ -13,7 +13,6 @@ I live in Brasília - DF, I had contact with programming in my graduation in Ele
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt ="python" width="40" height="40"/>
   
 </P>
 
