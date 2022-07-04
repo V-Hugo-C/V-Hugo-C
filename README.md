@@ -16,6 +16,10 @@ I live in Brasília - DF, I had contact with programming in my graduation in Ele
   
 </P>
 
+# Learning
+<img src="https://img.icons8.com/fluency/344/node-js.png" alt="node" width="40" height="40"/>
+
+
 # Language Proficiency
 
 * My native language is portuguese 🇧🇷
