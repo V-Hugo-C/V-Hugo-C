@@ -13,13 +13,16 @@ I live in Brasília - DF, I had contact with programming in my graduation in Ele
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mySql" width="40" height="40"/>
   
 </P>
 
 # Learning
-<img src="https://img.icons8.com/fluency/344/node-js.png" alt="node" width="40" height="40"/>
-
-
+  <P>
+<img src="https://img.icons8.com/office/344/react.png" alt="node" width="40" height="40"/>
+<img src="https://img.icons8.com/fluency/344/node-js.png" alt="react" width="40" height="40"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt ="mongoDb" width="40" height="40"/>
+  </P>
 # Language Proficiency
 
 * My native language is portuguese 🇧🇷
