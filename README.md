@@ -19,6 +19,7 @@ I live in Brasília - DF, I had contact with programming in my graduation in Ele
 
 # Learning
   <P>
+<img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/>
 <img src="https://img.icons8.com/office/344/react.png" alt="node" width="40" height="40"/>
 <img src="https://img.icons8.com/fluency/344/node-js.png" alt="react" width="40" height="40"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt ="mongoDb" width="40" height="40"/>
