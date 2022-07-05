@@ -24,11 +24,12 @@ I live in Brasília - DF, I had contact with programming in my graduation in Ele
 <img src="https://img.icons8.com/fluency/344/node-js.png" alt="react" width="40" height="40"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt ="mongoDb" width="40" height="40"/>
   </P>
+  
 # Language Proficiency
-
+<P>
 * My native language is portuguese 🇧🇷
 * Technical English
-
+  </P>
 # Contact
 <a href="https://www.linkedin.com/in/victor-cunha-a4b67b1bb/" target="blank">
   <img align="center" src="https://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" alt="VictorWise3" height="30" width="30" />
