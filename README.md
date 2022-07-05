@@ -27,13 +27,15 @@ I live in Brasília - DF, I had contact with programming in my graduation in Ele
   
 # Language Proficiency
 <P>
-* My native language is portuguese 🇧🇷
+* My native language is portuguese 🇧🇷 <br>
 * Technical English
   </P>
+  
 # Contact
+  <P>
 <a href="https://www.linkedin.com/in/victor-cunha-a4b67b1bb/" target="blank">
   <img align="center" src="https://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" alt="VictorWise3" height="30" width="30" />
 <a href="https://twitter.com/Victorwise3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="VictorWise3" height="30" width="30" />
 
-
+  </P>
