@@ -2,6 +2,8 @@
   <a href="https://github.com/V-Hugo-C">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V-Hugo-C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Hugo-C&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=V-Hugo-C&theme=dark" alt="V-Hugo-C" />
+  <img height="232em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=V-Hugo-C&theme=dark" alt="V-Hugo-C" />
 </div>
 
 # Hi, i am Victor Cunha
