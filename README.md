@@ -8,7 +8,8 @@
 </div>
 
 # Hi, i am Victor Cunha
-I live in Brasília - DF, I had contact with programming in my graduation in Electronic Engineering and since then I have been seeking to develop my knowledge in the area.
+* I live in brasilia, I'm a software engineering student at the University of Brasilia - UnB
+* Currently, I'm working remotely as an intern in software development at Comprovei by Nstech. Our stack is based on: Typescript, PHP, NodeJS.
 
 # Skills
 <P>
@@ -16,15 +17,20 @@ I live in Brasília - DF, I had contact with programming in my graduation in Ele
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/344/node-js.png" alt="node" width="40" height="40"/>
   <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mySql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresSQL" width="40" height="40"/>
+  
+  
   
 </P>
 
 # Learning
   <P>
-<img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/>
-<img src="https://img.icons8.com/office/344/react.png" alt="node" width="40" height="40"/>
-<img src="https://img.icons8.com/fluency/344/node-js.png" alt="react" width="40" height="40"/>
+
+<img src="https://img.icons8.com/officel/40/null/php-logo.png" alt="php" width="40" height="40"/>
+<img src="https://seeklogo.com/images/E/elixir-logo-CF24E6FA55-seeklogo.com.png" alt="elixir" width="40" height="40"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt ="mongoDb" width="40" height="40"/>
   </P>
   
