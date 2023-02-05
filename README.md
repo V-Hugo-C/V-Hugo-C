@@ -22,7 +22,7 @@
   <P>
 
 <img src="https://img.icons8.com/officel/40/null/php-logo.png" alt="php" width="40" height="40"/>
-<img src="https://seeklogo.com/images/E/elixir-logo-CF24E6FA55-seeklogo.com.png" alt="elixir" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="elixir" width="40" height="40"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt ="mongoDb" width="40" height="40"/>
   </P>
   
