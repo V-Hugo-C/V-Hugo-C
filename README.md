@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://github.com/V-Hugo-C">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V-Hugo-C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Hugo-C&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=V-Hugo-C&theme=tokyonight" alt="V-Hugo-C" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VHugoC&theme=tokyonight" alt="VHugoC" />
-  
-</div>
 
 # Hi, i am Victor Cunha
 * I live in brasilia, I'm a software engineering student at the University of Brasilia - UnB
@@ -48,3 +40,9 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="VictorWise3" height="30" width="30" />
 
   </P>
+  <div align="center">
+  <a href="https://github.com/V-Hugo-C">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Hugo-C&layout=compact&langs_count=7&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VHugoC&theme=tokyonight" alt="VHugoC" />
+  
+</div>
