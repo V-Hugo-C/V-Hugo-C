@@ -43,6 +43,5 @@
   <div align="center">
   <a href="https://github.com/V-Hugo-C">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Hugo-C&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VHugoC&theme=tokyonight" alt="VHugoC" />
   
 </div>
